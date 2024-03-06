@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d26e2c1b-5733-4568-8fec-b63cb716b466" name="Changes" comment="Add adminserver module to infrastructuredomain" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2ZRpPhc8OyqOIxpyW6eIrCISWmv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jorge/IdeaProjects/examples/paymentchain-parent/infrastructuredomain/ms-eurekaserver/src/main/java/com/example/mseurekaserver&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.paymentchain.mscustomer.exception" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jorge\IdeaProjects\examples\paymentchain-parent\infrastructuredomain\ms-eurekaserver\src\main\java\com\example\mseurekaserver" />
+      <recent name="C:\Users\jorge\IdeaProjects\examples\paymentchain-parent\businessdomain\ms-customer\src\main\java\com\paymentchain\mscustomer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jorge\IdeaProjects\examples\paymentchain-parent\infrastructuredomain\ms-eurekaserver\src\main\java\com\example\mseurekaserver\util\java" />
+      <recent name="C:\Users\jorge\IdeaProjects\examples\paymentchain-parent\infrastructuredomain\ms-eurekaserver\src\main\java\com\example\mseurekaserver\util\other" />
+      <recent name="C:\Users\jorge\IdeaProjects\examples\paymentchain-parent\businessdomain\ms-product\src\main\java\com\paymentchain\msproduct\util" />
+      <recent name="C:\Users\jorge\IdeaProjects\examples\paymentchain-parent\businessdomain\ms-product\src\main\java\com\paymentchain\msproduct\util\example" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.paymentchain.msproduct.exception" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MsCustomerApplication">
+    <configuration name="AdminserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="adminserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paymentchain.adminserver.AdminserverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsCustomerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="ms-customer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paymentchain.mscustomer.MsCustomerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsEurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="ms-eurekaserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.mseurekaserver.MsEurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="ms-product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paymentchain.msproduct.MsProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsTransactionsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="ms-transactions" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paymentchain.mstransactions.MsTransactionsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d26e2c1b-5733-4568-8fec-b63cb716b466" name="Changes" comment="" />
+      <created>1702394723836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702394723836</updated>
+      <workItem from="1702394724921" duration="905000" />
+      <workItem from="1702395635896" duration="224000" />
+      <workItem from="1702395862975" duration="662000" />
+      <workItem from="1702396527596" duration="67000" />
+      <workItem from="1702396597340" duration="208000" />
+      <workItem from="1702396807873" duration="775000" />
+      <workItem from="1702437295053" duration="4332000" />
+      <workItem from="1702441769749" duration="30000" />
+      <workItem from="1702478462592" duration="869000" />
+      <workItem from="1702518116405" duration="1218000" />
+      <workItem from="1702569126977" duration="493000" />
+      <workItem from="1702695642951" duration="4140000" />
+      <workItem from="1702739633011" duration="1539000" />
+      <workItem from="1702781029397" duration="1613000" />
+      <workItem from="1702783430557" duration="126000" />
+      <workItem from="1702783559432" duration="3666000" />
+      <workItem from="1702867320753" duration="2035000" />
+      <workItem from="1702947026762" duration="599000" />
+      <workItem from="1703301902330" duration="2166000" />
+      <workItem from="1703304343928" duration="854000" />
+      <workItem from="1703348169243" duration="1793000" />
+      <workItem from="1703383135759" duration="7569000" />
+      <workItem from="1703437341056" duration="4814000" />
+      <workItem from="1703564131778" duration="933000" />
+      <workItem from="1703605162419" duration="331000" />
+      <workItem from="1703734230595" duration="1767000" />
+      <workItem from="1703804957105" duration="601000" />
+      <workItem from="1703904544522" duration="4486000" />
+      <workItem from="1703946984082" duration="2262000" />
+      <workItem from="1703950001134" duration="611000" />
+      <workItem from="1703991271328" duration="3364000" />
+      <workItem from="1704039176112" duration="10089000" />
+      <workItem from="1704338703935" duration="5834000" />
+      <workItem from="1704423011567" duration="5579000" />
+      <workItem from="1704465494585" duration="2588000" />
+      <workItem from="1704469431682" duration="270000" />
+      <workItem from="1704553003597" duration="1012000" />
+      <workItem from="1704554037689" duration="21000" />
+      <workItem from="1704554296177" duration="294000" />
+      <workItem from="1704555049657" duration="57000" />
+      <workItem from="1704555956129" duration="844000" />
+      <workItem from="1704659665765" duration="6241000" />
+      <workItem from="1704811005651" duration="1374000" />
+      <workItem from="1704852040644" duration="5283000" />
+      <workItem from="1704900575988" duration="1189000" />
+      <workItem from="1704945029761" duration="2602000" />
+      <workItem from="1704979397469" duration="4724000" />
+      <workItem from="1705077770620" duration="217000" />
+      <workItem from="1705116094781" duration="1489000" />
+      <workItem from="1705195908540" duration="5675000" />
+      <workItem from="1705286828302" duration="7993000" />
+      <workItem from="1705332482360" duration="1937000" />
+      <workItem from="1705334613589" duration="2336000" />
+      <workItem from="1705376943367" duration="4246000" />
+      <workItem from="1705463044061" duration="1105000" />
+      <workItem from="1705683301512" duration="171000" />
+      <workItem from="1705780302858" duration="53000" />
+      <workItem from="1706712314383" duration="803000" />
+      <workItem from="1706713173828" duration="757000" />
+      <workItem from="1706718740140" duration="1123000" />
+      <workItem from="1706751114435" duration="696000" />
+      <workItem from="1706751815351" duration="201000" />
+      <workItem from="1706752034193" duration="674000" />
+      <workItem from="1706798741686" duration="4409000" />
+      <workItem from="1706847524848" duration="2218000" />
+      <workItem from="1706887653384" duration="2638000" />
+      <workItem from="1706933539224" duration="1670000" />
+      <workItem from="1706976203202" duration="4222000" />
+      <workItem from="1708653565368" duration="2759000" />
+      <workItem from="1708736487764" duration="6301000" />
+      <workItem from="1708792249724" duration="11297000" />
+      <workItem from="1708873160881" duration="1121000" />
+      <workItem from="1708912953834" duration="4336000" />
+      <workItem from="1708956211245" duration="278000" />
+      <workItem from="1708965990364" duration="38000" />
+      <workItem from="1709040029773" duration="621000" />
+      <workItem from="1709089069037" duration="3269000" />
+      <workItem from="1709421871101" duration="38000" />
+      <workItem from="1709431115896" duration="29000" />
+      <workItem from="1709568690673" duration="190000" />
+      <workItem from="1709568924923" duration="218000" />
+      <workItem from="1709612168270" duration="3315000" />
+      <workItem from="1709652109106" duration="2486000" />
+      <workItem from="1709689597319" duration="9161000" />
+      <workItem from="1709737129408" duration="683000" />
+      <workItem from="1709737855224" duration="1377000" />
+      <workItem from="1709739353239" duration="184000" />
+      <workItem from="1709739581043" duration="663000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added mc-product">
+      <option name="closed" value="true" />
+      <created>1703560682858</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703560682858</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated code in mc-transactions">
+      <option name="closed" value="true" />
+      <created>1705077912970</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705077912970</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add ms-eurekaServer to infrastructuredomain">
+      <option name="closed" value="true" />
+      <created>1705464046191</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705464046191</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add adminserver module to infrastructuredomain">
+      <option name="closed" value="true" />
+      <created>1706893116407</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706893116407</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/businessdomain/ms-product" />
+      <path value="$PROJECT_DIR$/businessdomain/ms-customer" />
+      <path value="$PROJECT_DIR$/businessdomain/ms-transactions" />
+      <path value="$PROJECT_DIR$/infrastructuredomain/adminserver" />
+      <path value="$PROJECT_DIR$/infrastructuredomain/ms-eurekaserver" />
+    </ignored-roots>
+    <MESSAGE value="Added mc-product" />
+    <MESSAGE value="Updated code in mc-transactions" />
+    <MESSAGE value="Add ms-eurekaServer to infrastructuredomain" />
+    <MESSAGE value="Add adminserver module to infrastructuredomain" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add adminserver module to infrastructuredomain" />
+  </component>
+</project>
