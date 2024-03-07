@@ -1,5 +1,7 @@
 # PaymentChain
 
+### Project Structure
+
 ### Docs
 * [SpringBoot](https://www.baeldung.com/spring-boot)
 * [Spring Security](https://spring.io/projects/spring-security)
